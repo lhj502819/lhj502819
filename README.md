@@ -7,7 +7,5 @@
 - ⛪ 个人博客：[CSDN](https://blog.csdn.net/qq_43295093?spm=1010.2135.3001.5343)、[掘金](https://juejin.cn/user/2692022066283981)
 
 
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=lhj502819&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=radical&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhj502819&hide_title=true&hide_border=true&layout=compact&theme=radical&locale=cn" />
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=lhj502819&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=radical" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhj502819&hide_title=true&hide_border=true&layout=compact&theme=radical" />
 
-
-![描述](https://komarev.com/ghpvc/?username=lhj502819&color=green)
