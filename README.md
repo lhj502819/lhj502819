@@ -7,6 +7,6 @@
 - ⛪ 个人博客：[CSDN](https://blog.csdn.net/qq_43295093?spm=1010.2135.3001.5343)、[掘金](https://juejin.cn/user/2692022066283981)
 
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lhj502819&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)<img align="" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhj502819&hide_title=true&hide_border=true&layout=compact&theme=radical&locale=cn" />
+<img align=""  src="https://github-readme-stats.vercel.app/api?username=lhj502819&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=radical&locale=cn" />
+<img align="" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhj502819&hide_title=true&hide_border=true&layout=compact&theme=radical&locale=cn" />
 
